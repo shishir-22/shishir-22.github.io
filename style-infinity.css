@@ -1,5 +1,5 @@
 body{
-	background-color:rgb(136, 153, 151);
+	background-color:black;
 }
 *{
 	margin:0;
@@ -14,6 +14,10 @@ body{
     position:fixed;
     z-index:10;
 
+}
+
+#p1{
+     text-align:center;
 }
 
 .header{
@@ -56,6 +60,7 @@ body{
 	padding-right:30px;
 	padding-top:30px;
 	padding-bottom:30px;
+	margin-bottom:20px;
 }
 
 #img-4{
@@ -73,4 +78,38 @@ body{
 	padding-top:20px;
 	padding-left:20px;
 	padding-bottom:20px;
+}
+
+.section-2{
+	display:grid;
+	width:1200px;
+	height:4000px;
+	background-color:rgb(244, 228, 198);
+	background-image:url("grid-image.jpg");
+	margin-left:50px;
+	grid-template-columns:repeat(15,1fr);
+	grid-template-rows:repeat(40,1fr);
+}
+
+.gdiv-1{
+	border:1px solid black;
+	margin-left:50px;
+	width:1200px;
+	background-color:rgb(244, 228, 198);
+}
+
+.mdiv-1{
+	background:rgb(221, 24, 24);
+	grid-area:2/2/span 5/span 3;
+	align-items: center;
+}
+
+.mdiv-2{
+	background:rgb(8, 178, 48);
+	grid-area:2/7/span 5/span 3;
+}
+
+.mdiv-3{
+	background:rgb(221, 24, 24);
+	grid-area:2/12/span 5/span 3;
 }
