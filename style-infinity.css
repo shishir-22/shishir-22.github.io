@@ -1,5 +1,5 @@
 body{
-	background-color:black;
+	background-color:rgb(136, 153, 151);
 }
 *{
 	margin:0;
@@ -61,4 +61,16 @@ body{
 #img-4{
 	border:1px solid rgba(0,0,0,0);
 	margin-left:100px;
+}
+
+.footer{
+	background-color:rgb(44, 135, 100);
+	color:black;
+	font-style:italic;
+	border:1px solid black;
+	box-shadow:2px 2px 0 2px white;
+	margin-top:200px;
+	padding-top:20px;
+	padding-left:20px;
+	padding-bottom:20px;
 }
