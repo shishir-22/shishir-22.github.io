@@ -43,10 +43,10 @@ body{
 
 .section-1{
 	font-size:25px;
-        width:800px;
 	font-family:Times New Roman;
 	color:#133d3d;
 	background-image:url("img-5.jpg");
+	width:1200px;
 	border:1px solid white;
 	box-sizing:border-box;
 	margin-top:40px;
@@ -60,5 +60,5 @@ body{
 
 #img-4{
 	border:1px solid rgba(0,0,0,0);
-	margin-left:50px;
+	margin-left:100px;
 }
