@@ -99,9 +99,8 @@ body{
 }
 
 .mdiv-1{
-	background:rgb(221, 24, 24);
+	background: #790604;
 	grid-area:2/2/span 5/span 3;
-	align-items: center;
 }
 
 .mdiv-2{
@@ -110,6 +109,36 @@ body{
 }
 
 .mdiv-3{
-	background:rgb(221, 24, 24);
+	background: #790604;
 	grid-area:2/12/span 5/span 3;
+}
+
+.mdiv-4{
+	background:rgb(192,192,192);
+	grid-area:8/2/span 5/span 3;
+}
+
+.mdiv-5{
+	background:	#002d5c;
+	grid-area:8/7/span 5/span 3;
+}
+
+.mdiv-6{
+	background:	#a50000;
+	grid-area:8/12/span 5/span 3;
+}
+
+.mdiv-7{
+	background:#790604;
+	grid-area:14/2/span 5/span 3;
+}
+
+.mdiv-8{
+	background:rgb(192,192,192);
+	grid-area:14/7/span 5/span 3;
+}
+
+.mdiv-9{
+	background:	#002d5c;
+	grid-area:14/12/span 5/span 3;
 }
