@@ -30,6 +30,25 @@ body{
 	top:60px;
 }
 
+.know-more{
+	border:2px solid black;
+	border-radius:20px;
+	padding:20px 20px;
+	box-shadow:0px 1px 1px 0px white;
+	z-index:10;
+
+}
+
+
+.know-more:hover{
+	background-color:yellow;
+}
+
+.know-more:active{
+	background-color:purple;
+	z-index:5;
+}
+
 .div-2{
 	box-sizing:border-box;
 	color:white;
@@ -65,7 +84,10 @@ body{
 
 #img-4{
 	border:1px solid rgba(0,0,0,0);
-	margin-left:100px;
+	margin-left:80px;
+	box-shadow: 3px 3px 3px 3px grey;
+	border-radius: 20px;
+	z-index:2;
 }
 
 .footer{
