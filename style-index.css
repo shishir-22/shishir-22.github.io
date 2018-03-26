@@ -46,3 +46,17 @@ hr {
     margin: 1em 0;
     padding: 0; 
 }
+.gallery{
+	margin:0px;
+	background-image:url("gallery.jpg");
+	color:white;
+}
+.image-hover:hover{
+	border:12px solid white;
+}
+.row{
+	margin-top:20px;
+}
+.col-lg-4{
+	margin-top:20px;
+}
