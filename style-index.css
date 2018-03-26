@@ -2,7 +2,7 @@
  	background-color:#37474F;
  }
  .menu-font{
- 	font-family: 'Tangerine', serif;
+ 	font-family: Brush Script MT, Brush Script Std, cursive;
  	font-size:30px;
  }
 .banner{
@@ -33,7 +33,7 @@
 	background-image:url("content.png");
 }
 .footer{
-	font-family:'Tangerine', serif;
+	font-family:Brush Script MT, Brush Script Std, cursive;
 	font-size:40px;
 	color:white;
 	background-color:#A9A9A9;
