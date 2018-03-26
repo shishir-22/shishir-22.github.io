@@ -60,3 +60,14 @@ hr {
 .col-lg-4{
 	margin-top:20px;
 }
+.col-lg-6{
+	margin-top:20px;
+}
+.col-lg-6 .card{
+	color:white;
+	background-image:url("cameraback.jpg");
+}
+
+.card-img-top:hover{
+	border:12px solid white;
+}
