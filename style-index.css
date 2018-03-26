@@ -63,7 +63,7 @@ hr {
 .col-lg-6{
 	margin-top:20px;
 }
-.col-lg-6 .card{
+.card{
 	color:white;
 	background-image:url("cameraback.jpg");
 }
